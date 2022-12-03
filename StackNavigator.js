@@ -7,7 +7,6 @@ import HomeScreen from './screens/HomeScreen';
 import LoginScreen from './screens/LoginScreen';
 import ModalScreen from './screens/ModalScreen';
 
-
 const Stack = createNativeStackNavigator();
 
 

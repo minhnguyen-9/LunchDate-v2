@@ -2,6 +2,7 @@ node_modules/
 .expo/
 dist/
 assets/
+screens_the_original/
 npm-debug.*
 *.jks
 *.p8
